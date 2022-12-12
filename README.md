@@ -41,6 +41,10 @@ Unfortunately, we didn't get a chance to test the final version of the project, 
 
 Thanks to this project and our amazing and wonderful teacher mr @nenel83, we learned a lot about using labview FPGA.
 
+# Simulation Preview of a SPI_Read
+
+![My Image](img/graph_simulation.png)
+
 # Contributors
 
 Swan boissay and Mathias Donzel\
