@@ -22,7 +22,7 @@ CS <-> ConnectorC/DIO4\
 SCL <-> ConnectorC/DIO5\
 SDA <-> ConnectorC/DIO6\
 VDD <-> 3.3V\
-GND <-> GND\
+GND <-> GND
 
 # How it works ?
 
@@ -43,7 +43,7 @@ Thanks to this project and our amazing and wonderful teacher mr @nenel83, we lea
 
 # Contributors
 
-Swan boissay and Mathias Donzel
+Swan boissay and Mathias Donzel\
 ![My Image](img/bg.png)
 
 
